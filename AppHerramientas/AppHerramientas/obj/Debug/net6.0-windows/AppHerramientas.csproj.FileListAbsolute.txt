@@ -1,0 +1,34 @@
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.Form1.resources
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.exe
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.deps.json
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.runtimeconfig.json
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.dll
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.pdb
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.dll
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\refint\AppHerramientas.dll
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.pdb
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\ref\AppHerramientas.dll
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.exe
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.deps.json
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.runtimeconfig.json
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.dll
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\bin\Debug\net6.0-windows\AppHerramientas.pdb
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.Form1.resources
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.dll
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\refint\AppHerramientas.dll
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.pdb
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\AppHerramientas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\SEMESTRE 4\HERRAMIENTAS DE PROGRAMACIÓN 3\AppHerramientas\AppHerramientas\obj\Debug\net6.0-windows\ref\AppHerramientas.dll
